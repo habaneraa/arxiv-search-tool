@@ -1,0 +1,7 @@
+torch
+xformers
+ipykernel
+transformers
+streamlit
+langchain-core
+langchain-openai
